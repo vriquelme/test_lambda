@@ -2,7 +2,7 @@
 
 exports.handler = (event, context, callback) => {
    
-    callback(null, {'message': 'Hello World!'});
+    callback(null, {'message': 'Hola Mundo!'});
    
 };
 
