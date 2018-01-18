@@ -1,0 +1,16 @@
+{
+    "name": "test_lambda",
+    "version": "0.0.0",
+    "description": "Test Lambda Function",
+    "author": {
+      "name": "Víctor Riquelme Rojas",
+      "email": "vriquelme@i-med.cl",
+      "url": ""
+    },
+    "license": "MIT",
+    "private": false,
+    "main": "index.js",
+    "engines": {
+      "node": "~6.4.x"
+    }
+}
